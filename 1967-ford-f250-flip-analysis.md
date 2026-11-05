@@ -89,7 +89,7 @@ Not without its **VIN**. The listing you described has no VIN, so I can't look u
 | 1969 F-250 | n/a | n/a | **$12,075** | Oct 10, 2026 | Shown in Hagerty "similar sales" | Low (unconfirmed; may be 4WD) |
 | 1968 F-250 Custom Camper Special | n/a, "modified", 6,865 mi | n/a | **$15,000** | BaT, Napa, CA. Oct 31, 2026 | Classic.com snippet ([1968 market](https://www.classic.com/m/ford/f-series/5th-gen/f250/year-1968/)) | Low (a second search couldn't confirm it) |
 
-Excluded as a different market: a 1967 F-250 Crew Cab 4-speed from Eugene, OR at $41,000 ([Hypercars](https://hypercars.io/listing/62097)), a 1968 F-250 at $43,575 (Oct 2026) and one at $22,050 (Aug 2026) with unknown drivetrain, and the 4x4 conversions and Highboys.
+Excluded as a different market: a 1967 F-250 Crew Cab 4-speed from Eugene, OR at $41,000 ([Classic.com](https://classic.com/veh/1967-ford-f-250-crew-cab-4-speed-f25yca86831-WREVAGn)), a 1968 F-250 at $43,575 (Oct 2026) and one at $22,050 (Aug 2026) with unknown drivetrain, and the 4x4 conversions and Highboys.
 
 ### Price timeline: ordinary 2WD F-250s (sold prices)
 
