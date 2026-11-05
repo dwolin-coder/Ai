@@ -34,7 +34,7 @@ The pool of 1967 2WD, V8, 4-speed, rough-but-running F-250s with recorded sales 
 | A2 | 1968 F-250 Ranger Camper Special 4-Speed (VIN F25YRD49482 per Classic.com URL) | 360 V8 (code Y) / 4-spd | 2WD (F25) | n/a | Not stated; the price implies a rough truck | **$4,500** | BaT 5% fee, so about **$4,725** | Apr 28, 2025 | [Classic.com](https://www.classic.com/veh/1968-ford-f-250-ranger-camper-special-4-speed-f25yrd49482-4agyOMW/?tab=comps), [Hypercars](https://hypercars.io/listing/62712) | Medium (VIN link inferred from the URL) |
 | A3 | 1967 F-250 Ranger Camper Special | n/a | n/a | n/a | Tagged "Original & Highly Original" | **$4,500** | n/a | Jul 10, 2025 | Classic.com comps record ([example page](https://www.classic.com/veh/1967-ford-f250-camper-special-f25yra85860-p6jP8gp/?tab=comps)) | Low (shown in Classic.com comps only; platform not confirmed) |
 | A4 | 1971 F-250 Custom (VIN F25BRK44095) | 300 I6 (code B) / manual | 2WD | 6,000 shown (likely TMU) | n/a | **$7,035** | n/a | Date not shown | [Hagerty past sales](https://www.hagerty.com/valuation-tools/past-sales/1971-ford-f~250/F25BRK44095/dff7e9ee-3e92-4f81-aed9-e70854410340) | Medium |
-| A5 | 1969 F-250 Ranger Camper Special 4-Speed (VIN F25YKE10562) | V8 / 4-spd | 2WD | 31k shown | n/a | **Not sold** at BaT. Classic.com also shows a public-record purchase on Dec 15, 2023 for **$700** (likely a nominal or non-arm's-length transfer) | n/a | **Payette County, ID.** Mar 16, 2024 | [Classic.com](https://classic.com/veh/1969-ford-f-250-ranger-camper-special-4-speed-f25y-Wxq6rRp) | Medium. A **local** truck that **failed to sell** on a national platform. |
+| A5 | 1969 F-250 Ranger Camper Special 4-Speed (VIN F25YKE10562) | V8 / 4-spd | 2WD | 31k shown | n/a | **Not sold** at BaT, **high bid $12,750**. Classic.com also shows a public-record purchase on Dec 15, 2023 for **$700** (likely a nominal or non-arm's-length transfer) | n/a | **Payette County, ID.** Mar 16, 2024 | [Classic.com](https://classic.com/veh/1969-ford-f-250-ranger-camper-special-4-speed-f25y-Wxq6rRp) | Medium. A **local**, low-mileage Ranger that drew $12,750 and still **didn't sell**, so the seller wanted more. This is a much nicer truck than yours. |
 
 ### B. Driver-quality 2WD trucks (a ceiling for this one)
 
@@ -68,6 +68,54 @@ Starting point: this truck is a base or unknown-trim 2WD F-250 that runs and dri
 | B2, 1967 Custom Cab CS, 352 | $9,750 | Custom Cab and Camper Special trim: −$1,000. "Highly original" with no noted rust, versus cab-corner rust here: −$2,000. Original engine vs suspect "351": −$500. Dealer or classified exposure: −10%. | **$5,000–$5,500** |
 
 **Weighted conclusion:** after the carb and ignition repairs, comps put this truck at **$4,200–$6,000**. Weighting the higher-confidence comps more (A1, A2, B1) and leaning conservative, as you asked, gives a base case of **about $4,750**.
+
+---
+
+## 1b. More sold vehicles and market movement (added on follow-up)
+
+### Can this exact truck's history be traced?
+Not without its **VIN**. The listing you described has no VIN, so I can't look up prior auction appearances, past sale prices or title history for this specific truck. Classic.com and Hagerty both index by VIN; for example, A5 above surfaced a $700 public-record transfer and a failed BaT auction that way. **Ask the seller for the VIN** and I can run it.
+
+### More sold results: 1966–1969 2WD F-250s at driver and project level
+
+| Truck | Engine / trans | Condition | **Sold** | Platform / location / date | Source | Confidence |
+|---|---|---|---|---|---|---|
+| 1966 F-250 long bed (VIN F25BR860116) | Listed as "352-powered", but the description says **5.8L** and the VIN code **B means it left the factory with a 300 I6**, so this is a **swap**. 3-spd automatic | Clear-coated patina, new interior, PS/PB, HEI, 81,886 mi (TMU) | **$10,599** winning bid, no reserve (AutoHunter adds a 5% buyer fee on top) | AutoHunter (dealer). Sherwood, OR. Oct 25, 2023 | [AutoHunter](https://autohunter.com/Listing/Details/43876560/Reserve-Removed-352POWERED-1966-FORD-F250) (read directly) | **High.** Also a real example of the **352 vs. 351 mix-up** in the wild. |
+| 1966 F-250 (VIN F25YR858817Z) | Original 352 V8 / **4-spd manual**, rear-wheel drive | Older repaint, hood crack, light surface rust on the bed (it carried a camper), headliner damaged, drums recently serviced, 60–63k claimed | **$15,000** winning bid (+5% fee) | AutoHunter (private). Austin, TX. Feb 2, 2021 | [AutoHunter](https://autohunter.com/Listing/Details/3780014/1966-Ford-F250) (read directly) | **High.** Sold at the 2021 market peak. |
+| 1969 F-250 Ranger Camper Special | V8 | Not stated | **$12,500** | Livonia, MI. Aug 31, 2024 | Classic.com 1969 F-250 records ([market page](https://www.classic.com/m/ford/f-series/5th-gen/f250/year-1969)) | Medium |
+| 1968 F-250 Ranger Camper Special | V8 | Not stated | **$15,750** | Oct 28, 2024 | Classic.com ([record](https://classic.com/veh/1968-ford-f-250-ranger-camper-special-f25hld00962-nXAzrEW)) | Medium |
+| 1969 F-250 Ranger Camper Special | V8 | Not stated | **$10,000** | **Central Point, OR.** Mar 14, 2025 | Classic.com 1969 F-250 records | Medium |
+| 1969 F-250 Camper Special | n/a | n/a | **$7,040** | Hagerty past-sales, date not shown | [Hagerty](https://www.hagerty.com/valuation-tools/past-sales/1969-ford-f~250/vin/5de8b683-bdf0-44e6-a74c-176c341c2865) (login-walled; the price is from the search snippet) | Low–medium |
+| 1969 F-250 | n/a | n/a | **$12,075** | Oct 10, 2026 | Shown in Hagerty "similar sales" | Low (unconfirmed; may be 4WD) |
+| 1968 F-250 Custom Camper Special | n/a, "modified", 6,865 mi | n/a | **$15,000** | BaT, Napa, CA. Oct 31, 2026 | Classic.com snippet ([1968 market](https://www.classic.com/m/ford/f-series/5th-gen/f250/year-1968/)) | Low (a second search couldn't confirm it) |
+
+Excluded as a different market: a 1967 F-250 Crew Cab 4-speed from Eugene, OR at $41,000 ([Hypercars](https://hypercars.io/listing/62097)), a 1968 F-250 at $43,575 (Oct 2026) and one at $22,050 (Aug 2026) with unknown drivetrain, and the 4x4 conversions and Highboys.
+
+### Price timeline: ordinary 2WD F-250s (sold prices)
+
+| Date | Truck | Tier | Price |
+|---|---|---|---|
+| Feb 2021 | 1966, 352, 4-spd, TX | Nice driver | $15,000 |
+| Oct 2023 | 1966, swapped V8, auto, OR | Patina driver | $10,599 |
+| Jan 2024 | 1967 Custom, I6, 4-spd, WA | **Project** | $6,400 |
+| Mar 2024 | 1969 Ranger CS, 4-spd, **ID** | Nice, low miles | No sale at $12,750 |
+| Aug 2024 | 1969 Ranger CS, MI | Driver+ | $12,500 |
+| Oct 2024 | 1968 Ranger CS | Driver+ | $15,750 |
+| Mar 2025 | 1969 Ranger CS, OR | Driver | $10,000 |
+| Apr 2025 | 1968 Ranger CS, 4-spd | **Rough** | $4,500 |
+| Apr 2025 | 1967 Custom Cab CS, 352 | Original driver | $9,750 |
+| Jun 2025 | 1968 CS, 4-spd | Driver+ | $13,750 |
+| Jul 2025 | 1968 CS, 360 auto, MI | Original-paint driver | $9,095 |
+| Jul 2025 | 1967 Ranger CS | Rough (low confidence) | $4,500 |
+| Oct 2026 | 1969 / 1968 CS | Unconfirmed | $12,075 / $15,000 |
+
+### What the market is doing
+
+* **Hagerty's index looks strong, but it isn't this truck.** Hagerty's 1967 F-250 #3 "Good" value (Oct 2026) is **$28,833–$37,033**, up **+15.1% over one year** and **+17.1% over three years**. Its July 2026 snapshot showed +7.2% annual, so the climb sped up in 2026 ([Hagerty](https://www.hagerty.com/valuation-tools/ford/f~250/1967/1967-ford-f~250-3!4_ton)). However, Hagerty's default 1967 F-250 configuration is a **4x4** Flareside, and the gain is driven by 4x4s and high-end trucks.
+* **The rest of the generation is flat to down.** On the same guide, the 1967 F-100 is **+0.9%/yr and −4.1% over 3 yrs**, the 1967 F-350 is +0.7%/yr and −0.7% over 3 yrs, and the 1972 F-100 Custom is +0.9%/yr and −4.6% over 3 yrs ([Hagerty F-100](https://www.hagerty.com/valuation-tools/ford/f~100/1967/1967-ford-f~100-1!2_ton), [F-350](https://www.hagerty.com/valuation-tools/ford/f~350/1967/1967-ford-f~350-1_ton), [1972 F-100 Custom](https://www.hagerty.com/valuation-tools/ford/f~100/1972/1972-ford-f~100-custom)).
+* **The run-up has already happened.** In Q1 2023, Hagerty data showed the 1967–72 F-Series up **37% in a single quarter** ([Ford Authority, Apr 2023](https://fordauthority.com/2023/04/1967-1972-ford-f-series-values-have-skyrocketed/)). Classic.com's market benchmark for 1967–72 F-250s now sits around **$33k** ([Classic.com](https://www.classic.com/m/ford/f-series/5th-gen/f250/)).
+* **Driver-tier 2WD prices have been flat to soft since 2021.** In the timeline above, nice 2WD drivers sold for $15,000 in 2021, and similar trucks have traded in a **$9,000–$16,000** band in 2024–2025. Rough or project 2WD trucks have stayed at **$4,500–$6,700** (2024–2025). I see no evidence the 4x4 and top-end gains are reaching rough 2WD trucks.
+* **What this means for the flip:** **plan on no appreciation tailwind.** Over a 30–60 day hold, market drift is negligible compared with **seasonality**. Winter listings in Boise sell slower and cheaper; March–June is the best window. The valuation and profit tables above stand unchanged.
 
 ---
 
